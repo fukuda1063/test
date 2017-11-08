@@ -1,5 +1,5 @@
 const assert = require('assert');
-const myModule = require('./myModule');
+const myModule = require('../myModule.js');
 
 describe('myModule', function () {
     describe('greet', function () {
