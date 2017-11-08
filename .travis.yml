@@ -3,3 +3,5 @@ language: node_js
 node_js:
     - "node"
 
+notifications:
+    slack: test-fukuda:OfPYJ980x1FQYwKgLlXfbO2D
