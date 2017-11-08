@@ -4,7 +4,7 @@
     "dependencies": {
     },
     "scripts": {
-        "test": "mocha"
+        "test": "npm"
     },
     "engines": {
         "node": "6.11.x"
